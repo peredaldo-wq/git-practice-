@@ -1,2 +1,2 @@
 birinchi test case
-ikkinchi test case 
+ikkinchi test case GitHub'ga birinchi push qildim
