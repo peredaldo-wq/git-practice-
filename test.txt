@@ -2,3 +2,4 @@ birinchi test case
 ikkinchi test case GitHub'ga birinchi push qildim
 uchinchi test case 
 bugun ikkinchi kunim push qilishda 
+bu xabarni github saytida yaratdim 
